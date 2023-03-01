@@ -1,8 +1,8 @@
-// import { DefaultTheme } from 'styled-components';
+import { DefaultTheme } from 'styled-components';
 
 import { breakpoints, mq, spacing } from './layout';
 
-export const defaultTheme  = {
+export const defaultTheme:DefaultTheme  = {
   breakpoints,
   mq,
   spacing,
