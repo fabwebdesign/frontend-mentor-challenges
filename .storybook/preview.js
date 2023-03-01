@@ -7,13 +7,12 @@ import { MemoryRouter } from 'react-router-dom';
 
 const ThemeDecorator = storyFn => (
   <>
-    <div id="app-root">
+    <main id="app-root">
       <ThemeProvider theme={defaultTheme}>
         <GlobalStyle />
         {storyFn()}
       </ThemeProvider>
-    </div>
-    <div id="modal-root"></div>
+    </main>
   </>
 );
 
