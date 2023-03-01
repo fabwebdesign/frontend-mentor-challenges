@@ -3,7 +3,6 @@ import { addDecorator } from '@storybook/react';
 import { ThemeProvider } from 'styled-components';
 import GlobalStyle from '../src/theme/globalStyle';
 import { defaultTheme } from '../src/theme';
-import { MemoryRouter } from 'react-router-dom';
 
 const ThemeDecorator = storyFn => (
   <>
@@ -17,9 +16,6 @@ const ThemeDecorator = storyFn => (
 );
 
 addDecorator(ThemeDecorator);
-addDecorator(story => (
-  <MemoryRouter initialEntries={['/']}>{story()}</MemoryRouter>
-));
 
 export const parameters = {
   actions: { argTypesRegex: '^on[A-Z].*' },
