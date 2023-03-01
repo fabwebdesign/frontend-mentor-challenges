@@ -2,7 +2,7 @@
 
 ## 1. QR Code Component ✅
 
-- Built with React, Styled Components. Using React QR Code Library.
+- Built with React, Styled Components.
 
 ## Link to Components 🔗
 
