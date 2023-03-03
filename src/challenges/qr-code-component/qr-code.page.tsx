@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import { QRCodeComponent } from "./qr-code.component";
 
-export const QRCode = () => {
+export const QRCodePage = () => {
   return (
     <>
       <Helmet>

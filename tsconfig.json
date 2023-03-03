@@ -20,11 +20,9 @@
   },
   "include": ["./src"],
   "exclude": [
-    ".storybook",
     "config",
     "public",
     "webpack",
-    "storybook-static",
     "./node_modules/**/*"
   ]
 }

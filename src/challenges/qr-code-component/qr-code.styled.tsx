@@ -39,14 +39,12 @@ export default styled.div`
       }
       .qr-code__title {
         color: hsl(218, 44%, 22%);
-        line-height: 2.4rem;
         font-size: 2rem;
         font-weight: 700;
         margin: 1.6rem 0;
       }
       .qr-code__text {
         color: hsl(220, 15%, 55%);
-        line-height: 2.4rem;
         font-size: 1.5rem;
         font-weight: 400;
       }
