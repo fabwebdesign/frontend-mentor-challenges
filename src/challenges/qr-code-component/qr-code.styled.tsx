@@ -35,13 +35,13 @@ export default styled.div`
         max-width: 30rem;
         width: 100%;
         margin: 0 auto;
-        padding: 0 1rem;
+        padding: 1.2rem 1rem;
       }
       .qr-code__title {
         color: hsl(218, 44%, 22%);
         font-size: 2rem;
         font-weight: 700;
-        margin: 1.6rem 0;
+        margin: 0 0 1.2rem;
       }
       .qr-code__text {
         color: hsl(220, 15%, 55%);
