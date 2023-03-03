@@ -7,16 +7,18 @@
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@parcel/config-default": "^2.8.3",
+    "@parcel/packager-raw-url": "^2.8.3",
     "@parcel/transformer-typescript-tsc": "^2.8.3",
+    "@parcel/transformer-webmanifest": "^2.8.3",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@types/react-helmet": "^6.1.6",
     "@types/styled-components": "^5.1.26",
     "babel-loader": "^8.3.0",
+    "parcel": "^2.8.3",
     "process": "^0.11.10",
     "styled-components": "^5.3.6",
-    "styled-normalize": "^8.0.7",
-    "parcel": "^2.8.3"
+    "styled-normalize": "^8.0.7"
   },
   "dependencies": {
     "react": "^18.2.0",
