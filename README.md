@@ -2,8 +2,5 @@
 
 ## 1. QR Code Component ✅
 
-- Built with React, Styled Components.
-
-## Link to Components 🔗
-
-[Check out Storybook](https://fabwebdesign.netlify.app/) 👈
+- Built with React 🔨 and Styled Components 💅
+- [👉 Component 👈](https://fabwebdesign.netlify.app/challenges/qr-code-component)
