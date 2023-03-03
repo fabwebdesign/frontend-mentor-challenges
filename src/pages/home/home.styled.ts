@@ -13,8 +13,16 @@ export default styled.div`
         > svg {
           display: block;
           margin: 0 auto;
-          margin-bottom: 6rem;
+          margin-bottom: 3.2rem;
         }
+      }
+      h1 {
+        color: #fff;
+        max-width: 40rem;
+        width: 100%;
+        margin: 0 auto 3.2rem;
+        text-align: center;
+        font-size: 2.4rem;
       }
       ul {
         list-style: none;

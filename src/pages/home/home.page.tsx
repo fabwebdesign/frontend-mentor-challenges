@@ -63,6 +63,7 @@ export const Home = () => {
               d="M101.152 128.608a4.574 4.574 0 0 1-4.575-4.575V37.075a4.574 4.574 0 0 1 9.15 0v86.958a4.576 4.576 0 0 1-4.575 4.575Z"
             />
           </svg>
+          <h1>Frontend Mentor | Challenges</h1>
           <nav>
             <ul role="list">
               <li>
