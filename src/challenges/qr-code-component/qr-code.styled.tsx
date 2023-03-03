@@ -35,7 +35,7 @@ export default styled.div`
         max-width: 30rem;
         width: 100%;
         margin: 0 auto;
-        padding: 0 1.4rem;
+        padding: 0 1rem;
       }
       .qr-code__title {
         color: hsl(218, 44%, 22%);
